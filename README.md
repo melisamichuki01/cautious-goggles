@@ -1,5 +1,5 @@
 # **Distributed Heterogeneous Database Management System (DDBMS) Report**
-
+Rercorded Implementation : https://streamyard.com/ier2dr8hv4m3
 ## **1. Introduction**
 This report details the implementation of a **Distributed Heterogeneous Database Management System (DDBMS)**. The system is designed to handle fragmentation, allocation, and reconstruction of data across multiple sites, each running different database management systems and operating systems.
 
